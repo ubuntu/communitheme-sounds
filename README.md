@@ -1,3 +1,5 @@
+# This repository has been merged into ubuntu/yaru.
+
 ![Sounds](/banner.jpg)
 
 This sound theme is an accompaniment for the [Ubuntu Communitheme](https://github.com/Ubuntu/gtk-communitheme/). It combines sounds from the [WoodenBeaver](https://github.com/madsrh/WoodenBeaver) and [Touch-Remix](https://github.com/madsrh/TouchRemix) sound themes with an emphasis on making sound a usability feature instead of an annoyance. We're clipping out things like 'button-pressed' and 'service-logout', and working towards shorter and less intrusive, more refined audio set.
